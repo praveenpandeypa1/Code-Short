@@ -1,5 +1,5 @@
 # 📊 Code-Short
-Code-Short  is an interactive web application that visually demonstrates how different sorting algorithms work in real-time. Built with HTML, CSS, and JavaScript, this tool helps users understand sorting logic through dynamic animations.   
+Code-Short  is an interactive web application that visually demonstrates how different sorting algorithms work in real-time. Built with HTML, CSS, and JavaScript, this tool helps users understand sorting logic through dynamic animations.      
     
 ## 🚀 Features
 - 🔄 Multiple Sorting Algorithms – Visualize Bubble Sort, Merge Sort, Quick Sort, and more.
